@@ -1,0 +1,18 @@
+  <library name="lib">
+    <CLASS<component name="libraryTable">
+    ES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-lang-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.apache.commons.io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.apache.commons.fileupload.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
